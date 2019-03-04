@@ -567,7 +567,7 @@ disqus:
   enable: true
   shortname: sealedace
   count: true
-  lazyload: true
+  lazyload: false
 
 # Changyan
 changyan:
