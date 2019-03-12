@@ -564,7 +564,7 @@ quicklink:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false 
   shortname: sealedace
   count: true
   lazyload: false
